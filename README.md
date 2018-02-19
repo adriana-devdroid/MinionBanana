@@ -8,11 +8,11 @@ Videojuego
 
 ![Minion Banana game](/Minionscreen2.png)
 
-![Minion Banana game](/Minionscreen3.png)
+![Minion Banana g](/Minionscreen3.png)
 
-![Minion Banana game](/Minionscreen4.png)
+![Minion Banana a](/Minionscreen4.png)
 
-![Minion Banana game](/Minionscreen5.png)
+![Minion Banana e](/Minionscreen5.png)
 
 
 ## Requisitos
